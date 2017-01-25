@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\100575442\Desktop\Winter2017\Debugging\Exercise3\RepoCmaketest\src\Vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\100575442\Desktop\Winter2017\Debugging\Exercise3\RepoCmaketest\src\Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\100575442\Desktop\Winter2017\Debugging\Exercise3\RepoCmaketest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FD775057-E905-3377-BE33-E63C38EDEA74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E35C223B-40A2-327F-B446-8398111773D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
